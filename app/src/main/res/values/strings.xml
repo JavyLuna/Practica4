@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica #4</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Practica Android #4</string>
+    <string name="sub1">Ingresa la cantidad a calcular</string>
+    <string name="sub2">Billetes de $100</string>
+    <string name="sub3">Billetes de $50</string>
+    <string name="sub4">Billetes de $20</string>
+    <string name="sub5">Monedas de $10</string>
+    <string name="sub6">Monedas de $5</string>
+    <string name="sub7">Monedas de $2</string>
+    <string name="sub8">Monedas de $1</string>
+    <string name="sub9">Monedas de $0.50</string>
+    <string name="sub10">Monedas de $0.20</string>
+    <string name="sub11">Monedas de $0.10</string>
+    <string name="button">Cambiar</string>
+</resources>
